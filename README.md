@@ -1,6 +1,6 @@
 
-````markdown
-# 📚 Novel Chatbot — Ask Your Fictional World
+
+# 📚 Literature CHATBOT — Ask Your Fictional World
 
 A **Streamlit-based conversational assistant** for exploring content from famous novels like *Game of Thrones* and *Sherlock Holmes*. Built with [LangChain](https://www.langchain.com/), [FAISS](https://github.com/facebookresearch/faiss), [Google Generative AI Embeddings](https://ai.google.dev/), [BM25](https://en.wikipedia.org/wiki/Okapi_BM25), and [Cohere Rerank](https://docs.cohere.com/docs/rerank).
 
