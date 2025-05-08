@@ -19,7 +19,7 @@ A **Streamlit-based conversational assistant** for exploring content from famous
 
 ## 🖼️ Demo Screenshot
 
-![Image](Screenshot (25).png)
+![Image](1.png)
 
 ---
 
