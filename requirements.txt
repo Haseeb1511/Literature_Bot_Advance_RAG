@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_huggingface
+rank_bm25
+pypdf
+cryptography
+langchain_groq
+langchain-cohere
+langchain-google-genai
+protobuf==5.29.4
+proto-plus==1.22.3
+faiss-cpu
+streamlit
