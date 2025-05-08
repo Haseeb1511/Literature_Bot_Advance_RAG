@@ -1,6 +1,3 @@
-Here’s a clean and professional `README.md` file tailored for your **Streamlit-based Novel Chatbot with LangChain**, FAISS, and Cohere Rerankers:
-
----
 
 ````markdown
 # 📚 Novel Chatbot — Ask Your Fictional World
