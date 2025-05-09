@@ -19,7 +19,7 @@ A **Streamlit-based conversational assistant** for exploring content from famous
 
 ## 🖼️ Demo Screenshot
 
-![Image](1.png)
+![Image](image/1.png)
 
 ---
 
@@ -41,7 +41,8 @@ A **Streamlit-based conversational assistant** for exploring content from famous
 
 ```bash
 git clone https://github.com/Haseeb1511/Literature_Bot_Advance_RAG.git
-cd novel-chatbot
+cd Literature_Bot_Advance_RAG
+
 ````
 
 ### 2. Install Dependencies
@@ -105,21 +106,12 @@ streamlit run app.py
 └── requirements.txt
 ```
 
----
 
-## 🧪 Example Query
-
-> *"How did Sherlock deduce the identity of the thief?"*
-
-> 🧠 *"Sherlock observed the muddy boot prints..."*
-
----
 
 ## ✅ TODO / Improvements
 
-* Add file uploader for dynamic PDF ingestion
-* Add user selection for novel and character
-* Expand reranking options (OpenAI, Jina)
+* Add file uploader for dynamic PDF ingestion(later this)
+* Add user selection for novel and character(first this step)
 * Use persistent FAISS indexing to avoid recomputation
 
 ---
